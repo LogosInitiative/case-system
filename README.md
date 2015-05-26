@@ -1,6 +1,8 @@
-# Case Tag System Extension
+# Logla Case
 
-This is a case tag system for the Logla Prime language. The system is completely isolated extension to the language, and does not require any adjustments to morphology. It can be used in conjuction with the ordinal system, or it can be used to replace the ordinal system entrirely.
+This project is a variation of the Logla language that uses a case tag argument system instead of ordinal arguments.
+
+While it would be ideal if this system could be purely an isolated extension to the orginal language (and on purely techincal grounds that is possible) doing so would limit the capability of the case system, not allowing it to reach its full potential. A clear example of this limitation can be seen in the Lojban words `bajra` and `bajykla`. In Lojban, `bajra` means `x1 runs on x2 using limbs x3 with gait x4`. To convey the idea of moving to and fro while running, it must provide the compound word `bajykal`, which combines `bajra` with the word for go/come, `klama`. With a case tag system this would not be necessary -- `bajra` would sufficent in itself supporting to and fro arguments, as well as any others that are pertenant to the concpet of running.
 
 ## What are Case Tags?
 
